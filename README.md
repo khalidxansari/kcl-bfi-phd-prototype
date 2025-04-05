@@ -15,6 +15,20 @@ The project explores how **cloud-based computer vision tools** can be used to ex
 - Visualize dominant themes and co-occurrence of concepts in screen culture
 
 ---
-
+```
 ## 📁 Project Structure
+
+
+kcl-bfi-phd-prototype/
+├── Output/                      # Contains generated visualizations (bar chart, word cloud, heatmap)
+│   ├── Frequent words label.png
+│   ├── Wordcloud.png
+│   └── label co-occurance matrix.png
+├── tagging_frames_adverts.ipynb       # Main notebook: frame extraction & Google Vision integration
+├── label_visuals.ipynb                # Notebook for top labels + word cloud
+├── co_occurrence_matrix.ipynb         # Notebook for co-occurrence analysis
+├── vision_labels.csv                  # Output CSV from Google Vision label detection
+├── README.md
+└── requirements.txt
+```
 
