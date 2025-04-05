@@ -1,0 +1,1541 @@
+Image,Label,Score
+contigo_frame0.jpg,Jacket,0.908
+contigo_frame0.jpg,Black,0.906
+contigo_frame0.jpg,Winter,0.898
+contigo_frame0.jpg,Freezing,0.752
+contigo_frame0.jpg,Overcoat,0.686
+contigo_frame0.jpg,Snow,0.59
+contigo_frame1.jpg,Winter,0.937
+contigo_frame1.jpg,Jacket,0.933
+contigo_frame1.jpg,Freezing,0.876
+contigo_frame1.jpg,Snow,0.858
+contigo_frame1.jpg,Bag,0.757
+contigo_frame1.jpg,Backpack,0.668
+contigo_frame1.jpg,Conifers,0.645
+contigo_frame1.jpg,Walking,0.577
+contigo_frame1.jpg,Fir,0.557
+contigo_frame1.jpg,Pine family,0.533
+contigo_frame10.jpg,Racquet sport,0.855
+contigo_frame10.jpg,Sports venue,0.848
+contigo_frame10.jpg,Tennis court,0.826
+contigo_frame10.jpg,Leisure,0.795
+contigo_frame10.jpg,Net,0.788
+contigo_frame10.jpg,Tennis--Equipment and supplies,0.744
+contigo_frame10.jpg,Net sport,0.695
+contigo_frame10.jpg,Tennis,0.665
+contigo_frame10.jpg,Racketlon,0.64
+contigo_frame10.jpg,Paddle tennis,0.586
+contigo_frame11.jpg,Winter,0.757
+contigo_frame11.jpg,Leisure,0.756
+contigo_frame11.jpg,Sports venue,0.597
+contigo_frame11.jpg,Fence,0.57
+contigo_frame11.jpg,Snow,0.568
+contigo_frame11.jpg,Net,0.53
+contigo_frame12.jpg,Recreation,0.9
+contigo_frame12.jpg,Racquet sport,0.885
+contigo_frame12.jpg,Leisure,0.825
+contigo_frame12.jpg,Snow,0.812
+contigo_frame12.jpg,Winter,0.788
+contigo_frame12.jpg,Freezing,0.623
+contigo_frame12.jpg,Racketlon,0.616
+contigo_frame12.jpg,Table tennis,0.568
+contigo_frame12.jpg,Net,0.562
+contigo_frame12.jpg,Racket,0.546
+contigo_frame13.jpg,Recreation,0.824
+contigo_frame13.jpg,Leisure,0.76
+contigo_frame13.jpg,Racquet sport,0.673
+contigo_frame13.jpg,Net sport,0.637
+contigo_frame13.jpg,Fence,0.624
+contigo_frame13.jpg,Tennis--Equipment and supplies,0.607
+contigo_frame13.jpg,Exercise,0.585
+contigo_frame13.jpg,Net,0.564
+contigo_frame13.jpg,Sports venue,0.561
+contigo_frame14.jpg,Winter,0.884
+contigo_frame14.jpg,Snow,0.873
+contigo_frame14.jpg,Fence,0.804
+contigo_frame14.jpg,Freezing,0.793
+contigo_frame14.jpg,Daylighting,0.647
+contigo_frame14.jpg,Home Fencing,0.594
+contigo_frame14.jpg,Precipitation,0.585
+contigo_frame14.jpg,Handrail,0.508
+contigo_frame15.jpg,Ball game,0.945
+contigo_frame15.jpg,Racquet sport,0.937
+contigo_frame15.jpg,Sports equipment,0.927
+contigo_frame15.jpg,Individual sport,0.9
+contigo_frame15.jpg,Tennis,0.899
+contigo_frame15.jpg,Sports,0.896
+contigo_frame15.jpg,Tennis--Equipment and supplies,0.85
+contigo_frame15.jpg,Ball,0.832
+contigo_frame15.jpg,Paddle tennis,0.832
+contigo_frame15.jpg,Racket,0.801
+contigo_frame16.jpg,Ball game,0.952
+contigo_frame16.jpg,Racquet sport,0.951
+contigo_frame16.jpg,Sports equipment,0.932
+contigo_frame16.jpg,Sports,0.921
+contigo_frame16.jpg,Individual sport,0.913
+contigo_frame16.jpg,Tennis,0.904
+contigo_frame16.jpg,Paddle tennis,0.903
+contigo_frame16.jpg,Ball,0.897
+contigo_frame16.jpg,Racket,0.835
+contigo_frame16.jpg,Tennis--Equipment and supplies,0.823
+contigo_frame17.jpg,Bicycle,0.65
+contigo_frame17.jpg,Bicycle frame,0.617
+contigo_frame17.jpg,Bicycle tire,0.595
+contigo_frame17.jpg,Bicycles--Equipment and supplies,0.58
+contigo_frame17.jpg,Carbon fibers,0.545
+contigo_frame18.jpg,Bicycle,0.853
+contigo_frame18.jpg,Bicycle tire,0.839
+contigo_frame18.jpg,Bicycle frame,0.811
+contigo_frame18.jpg,Bicycles--Equipment and supplies,0.787
+contigo_frame18.jpg,Bicycle Wheel Rim,0.755
+contigo_frame18.jpg,Bicycle wheel,0.747
+contigo_frame18.jpg,Bicycle handlebar,0.701
+contigo_frame18.jpg,Carbon fibers,0.556
+contigo_frame18.jpg,Racing bicycle,0.537
+contigo_frame18.jpg,Road bicycle,0.523
+contigo_frame19.jpg,Bicycle,0.726
+contigo_frame19.jpg,Bicycle tire,0.704
+contigo_frame19.jpg,Bicycles--Equipment and supplies,0.666
+contigo_frame19.jpg,Bicycle frame,0.628
+contigo_frame19.jpg,Bicycle Wheel Rim,0.576
+contigo_frame19.jpg,Bicycle wheel,0.551
+contigo_frame19.jpg,Race track,0.551
+contigo_frame19.jpg,Bicycle handlebar,0.548
+contigo_frame2.jpg,Outerwear,0.961
+contigo_frame2.jpg,Standing,0.939
+contigo_frame2.jpg,Jacket,0.937
+contigo_frame2.jpg,Glass,0.826
+contigo_frame2.jpg,Winter,0.787
+contigo_frame2.jpg,Windbreaker,0.607
+contigo_frame2.jpg,Cleanliness,0.583
+contigo_frame2.jpg,Hood,0.582
+contigo_frame2.jpg,Hoodie,0.508
+contigo_frame20.jpg,Sports venue,0.925
+contigo_frame20.jpg,Tennis court,0.891
+contigo_frame20.jpg,Racquet sport,0.77
+contigo_frame20.jpg,Tennis,0.747
+contigo_frame20.jpg,Tennis--Equipment and supplies,0.744
+contigo_frame20.jpg,Net,0.622
+contigo_frame20.jpg,Net sport,0.604
+contigo_frame20.jpg,Soft tennis,0.566
+contigo_frame21.jpg,Tennis court,0.963
+contigo_frame21.jpg,Tennis,0.918
+contigo_frame21.jpg,Racquet sport,0.884
+contigo_frame21.jpg,Tennis--Equipment and supplies,0.873
+contigo_frame21.jpg,Sports venue,0.866
+contigo_frame21.jpg,Net,0.844
+contigo_frame21.jpg,Mesh,0.784
+contigo_frame21.jpg,Net sport,0.776
+contigo_frame21.jpg,Chain-link fencing,0.751
+contigo_frame21.jpg,Soft tennis,0.727
+contigo_frame22.jpg,Fence,0.815
+contigo_frame22.jpg,Iron,0.809
+contigo_frame22.jpg,Metal,0.793
+contigo_frame22.jpg,Lens flare,0.749
+contigo_frame22.jpg,Sun,0.691
+contigo_frame22.jpg,Mesh,0.679
+contigo_frame22.jpg,Steel,0.602
+contigo_frame22.jpg,Wire Fencing,0.595
+contigo_frame22.jpg,Chain-link fencing,0.547
+contigo_frame22.jpg,Handrail,0.529
+contigo_frame23.jpg,Water bottle,0.681
+contigo_frame23.jpg,Plastic,0.604
+contigo_frame23.jpg,Plastic bottle,0.581
+contigo_frame23.jpg,Vacuum flask,0.563
+contigo_frame23.jpg,Bottle,0.544
+contigo_frame24.jpg,Water bottle,0.511
+contigo_frame25.jpg,Drinkware,0.831
+contigo_frame25.jpg,Vacuum flask,0.81
+contigo_frame25.jpg,Bottle,0.776
+contigo_frame25.jpg,Water bottle,0.746
+contigo_frame25.jpg,Flask,0.658
+contigo_frame25.jpg,Plastic bottle,0.616
+contigo_frame26.jpg,Black,0.906
+contigo_frame26.jpg,Sunlight,0.873
+contigo_frame26.jpg,Iron,0.854
+contigo_frame26.jpg,Morning,0.848
+contigo_frame26.jpg,Evening,0.824
+contigo_frame26.jpg,Sunset,0.816
+contigo_frame26.jpg,Dusk,0.81
+contigo_frame26.jpg,Metal,0.808
+contigo_frame26.jpg,Silhouette,0.808
+contigo_frame26.jpg,Sunrise,0.776
+contigo_frame27.jpg,Silhouette,0.91
+contigo_frame27.jpg,Black,0.907
+contigo_frame27.jpg,Iron,0.843
+contigo_frame27.jpg,Sunlight,0.811
+contigo_frame27.jpg,Evening,0.767
+contigo_frame27.jpg,Backlighting,0.692
+contigo_frame27.jpg,Fence,0.679
+contigo_frame27.jpg,Dusk,0.618
+contigo_frame27.jpg,Sunset,0.568
+contigo_frame27.jpg,Balcony,0.548
+contigo_frame28.jpg,Silhouette,0.863
+contigo_frame28.jpg,Sunlight,0.839
+contigo_frame28.jpg,Iron,0.827
+contigo_frame28.jpg,Evening,0.808
+contigo_frame28.jpg,Sunset,0.771
+contigo_frame28.jpg,Backlighting,0.754
+contigo_frame28.jpg,Dusk,0.743
+contigo_frame28.jpg,Lens flare,0.72
+contigo_frame28.jpg,Sunrise,0.704
+contigo_frame28.jpg,Fence,0.658
+contigo_frame29.jpg,Racquet sport,0.965
+contigo_frame29.jpg,Sports equipment,0.923
+contigo_frame29.jpg,Sports,0.92
+contigo_frame29.jpg,Individual sport,0.906
+contigo_frame29.jpg,Racket,0.9
+contigo_frame29.jpg,Racketlon,0.873
+contigo_frame29.jpg,Tennis court,0.821
+contigo_frame29.jpg,Tennis--Equipment and supplies,0.819
+contigo_frame29.jpg,Tennis,0.812
+contigo_frame29.jpg,Net,0.803
+contigo_frame3.jpg,Jacket,0.948
+contigo_frame3.jpg,Winter,0.938
+contigo_frame3.jpg,Hood,0.794
+contigo_frame3.jpg,Freezing,0.721
+contigo_frame3.jpg,Snow,0.689
+contigo_frame3.jpg,Parka,0.682
+contigo_frame3.jpg,Fence,0.579
+contigo_frame3.jpg,Windbreaker,0.534
+contigo_frame3.jpg,Puffer,0.505
+contigo_frame30.jpg,Racquet sport,0.916
+contigo_frame30.jpg,Sports,0.91
+contigo_frame30.jpg,Sports venue,0.876
+contigo_frame30.jpg,Individual sport,0.838
+contigo_frame30.jpg,Tennis--Equipment and supplies,0.819
+contigo_frame30.jpg,Racket,0.781
+contigo_frame30.jpg,Leisure,0.76
+contigo_frame30.jpg,Tennis,0.758
+contigo_frame30.jpg,Racketlon,0.75
+contigo_frame30.jpg,Net,0.727
+contigo_frame31.jpg,Winter,0.767
+contigo_frame31.jpg,Hoodie,0.637
+contigo_frame32.jpg,Carbon fibers,0.704
+contigo_frame32.jpg,Plastic,0.607
+contigo_frame32.jpg,Cylinder,0.501
+contigo_frame33.jpg,Vacuum flask,0.861
+contigo_frame33.jpg,Flask,0.796
+contigo_frame33.jpg,Cylinder,0.711
+contigo_frame33.jpg,Plastic,0.694
+contigo_frame33.jpg,Lid,0.654
+contigo_frame33.jpg,Water bottle,0.57
+contigo_frame34.jpg,Standing,0.951
+contigo_frame34.jpg,Black,0.909
+contigo_frame34.jpg,Blazer,0.777
+contigo_frame34.jpg,Winter,0.767
+contigo_frame34.jpg,Overcoat,0.652
+contigo_frame34.jpg,Cleanliness,0.575
+contigo_frame34.jpg,Shadow,0.56
+contigo_frame34.jpg,Walking,0.532
+contigo_frame35.jpg,Black,0.907
+contigo_frame35.jpg,Bag,0.751
+contigo_frame35.jpg,Sidewalk,0.682
+contigo_frame35.jpg,Walking,0.628
+contigo_frame35.jpg,Shadow,0.597
+contigo_frame35.jpg,Cleanliness,0.527
+contigo_frame36.jpg,Snow,0.974
+contigo_frame36.jpg,Winter,0.972
+contigo_frame36.jpg,Black,0.907
+contigo_frame36.jpg,Freezing,0.881
+contigo_frame36.jpg,Fur,0.768
+contigo_frame36.jpg,Precipitation,0.753
+contigo_frame36.jpg,Glove,0.748
+contigo_frame36.jpg,Overcoat,0.67
+contigo_frame36.jpg,Ice,0.621
+contigo_frame36.jpg,Winter storm,0.562
+contigo_frame37.jpg,Bottle,0.98
+contigo_frame37.jpg,Water bottle,0.921
+contigo_frame37.jpg,Drinkware,0.911
+contigo_frame37.jpg,Vacuum flask,0.861
+contigo_frame37.jpg,Flask,0.855
+contigo_frame37.jpg,Plastic bottle,0.843
+contigo_frame37.jpg,Cylinder,0.722
+contigo_frame37.jpg,Plastic,0.715
+contigo_frame37.jpg,Canteen,0.658
+contigo_frame37.jpg,Bottle cap,0.631
+contigo_frame38.jpg,Winter,0.835
+contigo_frame38.jpg,Recreation,0.834
+contigo_frame38.jpg,Freezing,0.681
+contigo_frame38.jpg,Snow,0.632
+contigo_frame38.jpg,Walking,0.603
+contigo_frame39.jpg,Bottle,0.816
+contigo_frame39.jpg,Cylinder,0.741
+contigo_frame39.jpg,Water bottle,0.642
+contigo_frame39.jpg,Plastic bottle,0.58
+contigo_frame4.jpg,Jacket,0.919
+contigo_frame4.jpg,Winter,0.837
+contigo_frame4.jpg,Hood,0.689
+contigo_frame4.jpg,Hoodie,0.638
+contigo_frame4.jpg,Fur,0.629
+contigo_frame4.jpg,Glove,0.603
+contigo_frame4.jpg,Snow,0.52
+contigo_frame4.jpg,Puffer,0.505
+contigo_frame40.jpg,Motor vehicle,0.975
+contigo_frame40.jpg,Automotive Exterior,0.967
+contigo_frame40.jpg,Car,0.96
+contigo_frame40.jpg,Car door,0.912
+contigo_frame40.jpg,Hardtop,0.871
+contigo_frame40.jpg,Windshield,0.869
+contigo_frame40.jpg,Automotive Side-View Mirror,0.867
+contigo_frame40.jpg,Automotive Mirror,0.857
+contigo_frame40.jpg,Glass,0.833
+contigo_frame40.jpg,Sport utility vehicle,0.82
+contigo_frame41.jpg,Motor vehicle,0.975
+contigo_frame41.jpg,Car,0.972
+contigo_frame41.jpg,Automotive Exterior,0.968
+contigo_frame41.jpg,Bumper,0.892
+contigo_frame41.jpg,Hardtop,0.883
+contigo_frame41.jpg,Hood,0.873
+contigo_frame41.jpg,Windshield,0.87
+contigo_frame41.jpg,Car door,0.855
+contigo_frame41.jpg,Automotive Side-View Mirror,0.853
+contigo_frame41.jpg,Glass,0.839
+contigo_frame42.jpg,Land vehicle,0.986
+contigo_frame42.jpg,Vehicle,0.985
+contigo_frame42.jpg,Car,0.98
+contigo_frame42.jpg,Motor vehicle,0.975
+contigo_frame42.jpg,Automotive Exterior,0.968
+contigo_frame42.jpg,Automotive lighting,0.949
+contigo_frame42.jpg,Grille,0.941
+contigo_frame42.jpg,Bumper,0.929
+contigo_frame42.jpg,Hood,0.927
+contigo_frame42.jpg,Hardtop,0.895
+contigo_frame43.jpg,Windbreaker,0.671
+contigo_frame44.jpg,Drinkware,0.863
+contigo_frame44.jpg,Plastic,0.852
+contigo_frame44.jpg,Water bottle,0.826
+contigo_frame44.jpg,Plastic bottle,0.798
+contigo_frame44.jpg,Vacuum flask,0.749
+contigo_frame44.jpg,Bottle,0.723
+contigo_frame44.jpg,Lid,0.664
+contigo_frame44.jpg,Small appliance,0.526
+contigo_frame45.jpg,Car seat,0.795
+contigo_frame45.jpg,Plastic,0.726
+contigo_frame45.jpg,Plastic bottle,0.505
+contigo_frame46.jpg,Car seat,0.805
+contigo_frame46.jpg,Plastic,0.717
+contigo_frame47.jpg,Car Seat Cover,0.906
+contigo_frame47.jpg,Car seat,0.887
+contigo_frame47.jpg,Head restraint,0.744
+contigo_frame47.jpg,Silver,0.703
+contigo_frame47.jpg,Armrest,0.683
+contigo_frame47.jpg,Car door,0.681
+contigo_frame47.jpg,Leather,0.647
+contigo_frame47.jpg,Seat belt,0.597
+contigo_frame47.jpg,Mat,0.549
+contigo_frame47.jpg,Carbon fibers,0.532
+contigo_frame48.jpg,Car seat,0.848
+contigo_frame48.jpg,Car door,0.75
+contigo_frame48.jpg,Head restraint,0.656
+contigo_frame48.jpg,Car Seat Cover,0.602
+contigo_frame48.jpg,Seat belt,0.508
+contigo_frame49.jpg,Car seat,0.905
+contigo_frame49.jpg,Car Seat Cover,0.837
+contigo_frame49.jpg,Head restraint,0.801
+contigo_frame49.jpg,Car door,0.794
+contigo_frame49.jpg,Armrest,0.687
+contigo_frame49.jpg,Seat belt,0.681
+contigo_frame5.jpg,Calf,0.852
+contigo_frame5.jpg,Sneakers,0.847
+contigo_frame5.jpg,Walking Shoe,0.812
+contigo_frame5.jpg,Sock,0.791
+contigo_frame5.jpg,Ankle,0.779
+contigo_frame5.jpg,Foot,0.767
+contigo_frame5.jpg,Balance,0.656
+contigo_frame5.jpg,Outdoor Shoe,0.621
+contigo_frame5.jpg,Active Pants,0.509
+contigo_frame50.jpg,Car Seat Cover,0.927
+contigo_frame50.jpg,Car seat,0.913
+contigo_frame50.jpg,Car door,0.862
+contigo_frame50.jpg,Seat belt,0.844
+contigo_frame50.jpg,Head restraint,0.838
+contigo_frame50.jpg,Armrest,0.692
+contigo_frame50.jpg,Automotive Decor,0.558
+contigo_frame50.jpg,Steering wheel,0.554
+contigo_frame50.jpg,Automotive Care,0.552
+contigo_frame51.jpg,Car Seat Cover,0.945
+contigo_frame51.jpg,Car seat,0.914
+contigo_frame51.jpg,Seat belt,0.886
+contigo_frame51.jpg,Car door,0.859
+contigo_frame51.jpg,Head restraint,0.851
+contigo_frame51.jpg,Armrest,0.704
+contigo_frame51.jpg,Automotive Care,0.563
+contigo_frame51.jpg,Automotive Decor,0.563
+contigo_frame51.jpg,Leather,0.528
+contigo_frame52.jpg,Bottle,0.888
+contigo_frame52.jpg,Drinkware,0.873
+contigo_frame52.jpg,Water bottle,0.854
+contigo_frame52.jpg,Vacuum flask,0.848
+contigo_frame52.jpg,Plastic bottle,0.758
+contigo_frame52.jpg,Plastic,0.752
+contigo_frame52.jpg,Personal care,0.627
+contigo_frame52.jpg,Cylinder,0.526
+contigo_frame53.jpg,Bottle,0.955
+contigo_frame53.jpg,Drinkware,0.915
+contigo_frame53.jpg,Water bottle,0.895
+contigo_frame53.jpg,Vacuum flask,0.847
+contigo_frame53.jpg,Plastic bottle,0.798
+contigo_frame53.jpg,Plastic,0.722
+contigo_frame53.jpg,Solvent in chemical reactions,0.507
+contigo_frame54.jpg,Bottle,0.916
+contigo_frame54.jpg,Drinkware,0.834
+contigo_frame54.jpg,Water bottle,0.804
+contigo_frame54.jpg,Winter,0.781
+contigo_frame54.jpg,Plastic bottle,0.742
+contigo_frame54.jpg,Snow,0.731
+contigo_frame54.jpg,Freezing,0.728
+contigo_frame54.jpg,Plastic,0.69
+contigo_frame54.jpg,Glove,0.607
+contigo_frame54.jpg,Hood,0.598
+contigo_frame55.jpg,Winter,0.86
+contigo_frame55.jpg,Bottle,0.838
+contigo_frame55.jpg,Snow,0.808
+contigo_frame55.jpg,Freezing,0.769
+contigo_frame55.jpg,Water bottle,0.688
+contigo_frame55.jpg,Hood,0.67
+contigo_frame55.jpg,Glove,0.65
+contigo_frame55.jpg,Plastic bottle,0.623
+contigo_frame55.jpg,Ice,0.522
+contigo_frame55.jpg,Solvent in chemical reactions,0.519
+contigo_frame56.jpg,Bottle,0.892
+contigo_frame56.jpg,Winter,0.869
+contigo_frame56.jpg,Drinkware,0.821
+contigo_frame56.jpg,Freezing,0.81
+contigo_frame56.jpg,Hood,0.803
+contigo_frame56.jpg,Water bottle,0.783
+contigo_frame56.jpg,Snow,0.775
+contigo_frame56.jpg,Plastic bottle,0.713
+contigo_frame56.jpg,Plastic,0.624
+contigo_frame56.jpg,Glove,0.619
+contigo_frame57.jpg,Headgear,0.945
+contigo_frame57.jpg,Winter,0.924
+contigo_frame57.jpg,Hood,0.917
+contigo_frame57.jpg,Jacket,0.9
+contigo_frame57.jpg,Freezing,0.86
+contigo_frame57.jpg,Snow,0.857
+contigo_frame57.jpg,Hoodie,0.712
+contigo_frame57.jpg,Balaclava,0.703
+contigo_frame57.jpg,Glove,0.698
+contigo_frame57.jpg,Goggles,0.658
+contigo_frame58.jpg,Hood,0.944
+contigo_frame58.jpg,Headgear,0.939
+contigo_frame58.jpg,Winter,0.936
+contigo_frame58.jpg,Jacket,0.921
+contigo_frame58.jpg,Freezing,0.863
+contigo_frame58.jpg,Snow,0.858
+contigo_frame58.jpg,Fun,0.8
+contigo_frame58.jpg,Hoodie,0.776
+contigo_frame58.jpg,Glove,0.708
+contigo_frame58.jpg,Beanie,0.699
+contigo_frame59.jpg,Horizon,0.952
+contigo_frame59.jpg,Dusk,0.894
+contigo_frame59.jpg,Sunrise,0.852
+contigo_frame59.jpg,Afterglow,0.839
+contigo_frame59.jpg,Sunset,0.835
+contigo_frame59.jpg,Sunlight,0.8
+contigo_frame59.jpg,Sun,0.786
+contigo_frame59.jpg,Evening,0.728
+contigo_frame59.jpg,Dawn,0.67
+contigo_frame59.jpg,Red sky at morning,0.639
+contigo_frame6.jpg,Shoe,0.958
+contigo_frame6.jpg,Sneakers,0.877
+contigo_frame6.jpg,Calf,0.836
+contigo_frame6.jpg,Walking Shoe,0.826
+contigo_frame6.jpg,Sock,0.745
+contigo_frame6.jpg,Ankle,0.727
+contigo_frame6.jpg,Outdoor Shoe,0.684
+contigo_frame6.jpg,Foot,0.645
+contigo_frame6.jpg,Balance,0.573
+contigo_frame61.jpg,Advertising,0.606
+contigo_frame62.jpg,Advertising,0.578
+contigo_frame63.jpg,Font,0.897
+contigo_frame64.jpg,Font,0.896
+contigo_frame65.jpg,Font,0.896
+contigo_frame66.jpg,Font,0.896
+contigo_frame67.jpg,Font,0.896
+contigo_frame68.jpg,Font,0.898
+contigo_frame69.jpg,White,0.967
+contigo_frame69.jpg,Night,0.853
+contigo_frame7.jpg,Tennis court,0.974
+contigo_frame7.jpg,Sports venue,0.958
+contigo_frame7.jpg,Tennis,0.939
+contigo_frame7.jpg,Tennis--Equipment and supplies,0.931
+contigo_frame7.jpg,Mesh,0.923
+contigo_frame7.jpg,Racquet sport,0.917
+contigo_frame7.jpg,Wire Fencing,0.911
+contigo_frame7.jpg,Chain-link fencing,0.911
+contigo_frame7.jpg,Soft tennis,0.895
+contigo_frame7.jpg,Individual sport,0.884
+contigo_frame70.jpg,Font,0.907
+contigo_frame70.jpg,Night,0.749
+contigo_frame70.jpg,Screenshot,0.55
+contigo_frame71.jpg,Font,0.907
+contigo_frame71.jpg,Night,0.754
+contigo_frame71.jpg,Screenshot,0.544
+contigo_frame72.jpg,Night,0.576
+contigo_frame73.jpg,Night,0.57
+contigo_frame74.jpg,White,0.968
+contigo_frame74.jpg,Night,0.519
+contigo_frame8.jpg,Tennis court,0.95
+contigo_frame8.jpg,Tennis--Equipment and supplies,0.931
+contigo_frame8.jpg,Tennis ball,0.914
+contigo_frame8.jpg,Tennis,0.914
+contigo_frame8.jpg,Sports venue,0.91
+contigo_frame8.jpg,Individual sport,0.906
+contigo_frame8.jpg,Racquet sport,0.875
+contigo_frame8.jpg,Soft tennis,0.872
+contigo_frame8.jpg,Net,0.767
+contigo_frame8.jpg,Racketlon,0.712
+contigo_frame9.jpg,Racquet sport,0.93
+contigo_frame9.jpg,Net,0.824
+contigo_frame9.jpg,Leisure,0.808
+contigo_frame9.jpg,Racketlon,0.767
+contigo_frame9.jpg,Tennis court,0.737
+contigo_frame9.jpg,Net sport,0.703
+contigo_frame9.jpg,Table tennis,0.691
+contigo_frame9.jpg,Sports venue,0.688
+contigo_frame9.jpg,Tennis--Equipment and supplies,0.679
+contigo_frame9.jpg,Tennis,0.622
+newport_cigerate_frame0.jpg,Electronic device,0.985
+newport_cigerate_frame0.jpg,Display device,0.96
+newport_cigerate_frame0.jpg,Television set,0.957
+newport_cigerate_frame0.jpg,Analog television,0.902
+newport_cigerate_frame0.jpg,Television,0.88
+newport_cigerate_frame0.jpg,Technology,0.872
+newport_cigerate_frame0.jpg,Electronics,0.831
+newport_cigerate_frame0.jpg,Home appliance,0.75
+newport_cigerate_frame0.jpg,Cable television,0.734
+newport_cigerate_frame0.jpg,Cathode-ray tube,0.656
+newport_cigerate_frame1.jpg,Electronic device,0.987
+newport_cigerate_frame1.jpg,Display device,0.959
+newport_cigerate_frame1.jpg,Television set,0.929
+newport_cigerate_frame1.jpg,Electronics,0.872
+newport_cigerate_frame1.jpg,Technology,0.872
+newport_cigerate_frame1.jpg,Analog television,0.868
+newport_cigerate_frame1.jpg,Television,0.84
+newport_cigerate_frame1.jpg,Cable television,0.719
+newport_cigerate_frame1.jpg,Home appliance,0.695
+newport_cigerate_frame1.jpg,Multimedia,0.66
+newport_cigerate_frame10.jpg,Wrinkle,0.517
+newport_cigerate_frame11.jpg,Living room,0.501
+newport_cigerate_frame12.jpg,Electronic device,0.977
+newport_cigerate_frame12.jpg,Display device,0.942
+newport_cigerate_frame12.jpg,Technology,0.845
+newport_cigerate_frame12.jpg,Television set,0.795
+newport_cigerate_frame12.jpg,Electronics,0.788
+newport_cigerate_frame12.jpg,Analog television,0.751
+newport_cigerate_frame12.jpg,Gadget,0.691
+newport_cigerate_frame12.jpg,Output device,0.623
+newport_cigerate_frame12.jpg,Television,0.611
+newport_cigerate_frame12.jpg,Home appliance,0.6
+newport_cigerate_frame13.jpg,Electronic device,0.982
+newport_cigerate_frame13.jpg,Display device,0.949
+newport_cigerate_frame13.jpg,Technology,0.862
+newport_cigerate_frame13.jpg,Television set,0.844
+newport_cigerate_frame13.jpg,Electronics,0.827
+newport_cigerate_frame13.jpg,Analog television,0.781
+newport_cigerate_frame13.jpg,Gadget,0.758
+newport_cigerate_frame13.jpg,Output device,0.731
+newport_cigerate_frame13.jpg,Television,0.666
+newport_cigerate_frame13.jpg,Home appliance,0.643
+newport_cigerate_frame14.jpg,Advertising,0.86
+newport_cigerate_frame14.jpg,Publication,0.644
+newport_cigerate_frame15.jpg,Advertising,0.891
+newport_cigerate_frame15.jpg,Poster,0.691
+newport_cigerate_frame15.jpg,Publication,0.597
+newport_cigerate_frame16.jpg,Advertising,0.878
+newport_cigerate_frame16.jpg,Poster,0.666
+newport_cigerate_frame16.jpg,Publication,0.602
+newport_cigerate_frame17.jpg,Advertising,0.87
+newport_cigerate_frame17.jpg,Poster,0.659
+newport_cigerate_frame17.jpg,Publication,0.582
+newport_cigerate_frame18.jpg,Advertising,0.853
+newport_cigerate_frame18.jpg,Poster,0.659
+newport_cigerate_frame18.jpg,Publication,0.593
+newport_cigerate_frame19.jpg,Advertising,0.878
+newport_cigerate_frame19.jpg,Publication,0.64
+newport_cigerate_frame2.jpg,Electronic device,0.989
+newport_cigerate_frame2.jpg,Display device,0.96
+newport_cigerate_frame2.jpg,Television set,0.929
+newport_cigerate_frame2.jpg,Electronics,0.886
+newport_cigerate_frame2.jpg,Technology,0.882
+newport_cigerate_frame2.jpg,Television,0.859
+newport_cigerate_frame2.jpg,Analog television,0.859
+newport_cigerate_frame2.jpg,Multimedia,0.718
+newport_cigerate_frame2.jpg,Cable television,0.712
+newport_cigerate_frame2.jpg,Home appliance,0.711
+newport_cigerate_frame20.jpg,Advertising,0.814
+newport_cigerate_frame22.jpg,Furniture,0.987
+newport_cigerate_frame22.jpg,Interior design,0.91
+newport_cigerate_frame22.jpg,Living room,0.893
+newport_cigerate_frame22.jpg,Room,0.852
+newport_cigerate_frame22.jpg,Comfort,0.836
+newport_cigerate_frame22.jpg,Lampshade,0.809
+newport_cigerate_frame22.jpg,Lamp,0.779
+newport_cigerate_frame22.jpg,Chair,0.718
+newport_cigerate_frame22.jpg,Picture frame,0.696
+newport_cigerate_frame22.jpg,Shelf,0.641
+newport_cigerate_frame23.jpg,Furniture,0.924
+newport_cigerate_frame23.jpg,Blond,0.768
+newport_cigerate_frame23.jpg,Film,0.648
+newport_cigerate_frame23.jpg,Lap,0.609
+newport_cigerate_frame23.jpg,Living room,0.604
+newport_cigerate_frame23.jpg,Foot,0.526
+newport_cigerate_frame24.jpg,Happiness,0.827
+newport_cigerate_frame24.jpg,Blond,0.783
+newport_cigerate_frame24.jpg,Film,0.726
+newport_cigerate_frame24.jpg,Laughter,0.541
+newport_cigerate_frame24.jpg,Television show,0.529
+newport_cigerate_frame24.jpg,Love,0.521
+newport_cigerate_frame26.jpg,Love,0.626
+newport_cigerate_frame26.jpg,Happiness,0.58
+newport_cigerate_frame27.jpg,Drinkware,0.85
+newport_cigerate_frame27.jpg,Smoking,0.503
+newport_cigerate_frame28.jpg,Lips,0.985
+newport_cigerate_frame28.jpg,Facial expression,0.945
+newport_cigerate_frame28.jpg,Eyelash,0.875
+newport_cigerate_frame28.jpg,Blond,0.847
+newport_cigerate_frame28.jpg,Gesture,0.745
+newport_cigerate_frame29.jpg,Eyebrow,0.986
+newport_cigerate_frame29.jpg,Lips,0.985
+newport_cigerate_frame29.jpg,Forehead,0.983
+newport_cigerate_frame29.jpg,Facial expression,0.945
+newport_cigerate_frame29.jpg,Happiness,0.935
+newport_cigerate_frame29.jpg,Smile,0.928
+newport_cigerate_frame29.jpg,Tooth,0.923
+newport_cigerate_frame29.jpg,Eyelash,0.916
+newport_cigerate_frame29.jpg,Blond,0.847
+newport_cigerate_frame29.jpg,Gesture,0.755
+newport_cigerate_frame3.jpg,Electronic device,0.986
+newport_cigerate_frame3.jpg,Display device,0.956
+newport_cigerate_frame3.jpg,Television set,0.936
+newport_cigerate_frame3.jpg,Analog television,0.872
+newport_cigerate_frame3.jpg,Electronics,0.871
+newport_cigerate_frame3.jpg,Technology,0.867
+newport_cigerate_frame3.jpg,Television,0.843
+newport_cigerate_frame3.jpg,Cable television,0.722
+newport_cigerate_frame3.jpg,Home appliance,0.669
+newport_cigerate_frame3.jpg,Multimedia,0.655
+newport_cigerate_frame30.jpg,Eyebrow,0.986
+newport_cigerate_frame30.jpg,Lips,0.985
+newport_cigerate_frame30.jpg,Forehead,0.981
+newport_cigerate_frame30.jpg,Mouth,0.955
+newport_cigerate_frame30.jpg,Jaw,0.954
+newport_cigerate_frame30.jpg,Facial expression,0.945
+newport_cigerate_frame30.jpg,Happiness,0.941
+newport_cigerate_frame30.jpg,Smile,0.931
+newport_cigerate_frame30.jpg,Tooth,0.929
+newport_cigerate_frame30.jpg,Eyelash,0.914
+newport_cigerate_frame31.jpg,Lips,0.985
+newport_cigerate_frame31.jpg,Facial expression,0.945
+newport_cigerate_frame31.jpg,Eyelash,0.896
+newport_cigerate_frame31.jpg,Happiness,0.872
+newport_cigerate_frame31.jpg,Blond,0.866
+newport_cigerate_frame31.jpg,Step cutting,0.627
+newport_cigerate_frame31.jpg,Feathered hair,0.605
+newport_cigerate_frame31.jpg,Pleased,0.588
+newport_cigerate_frame31.jpg,Film,0.525
+newport_cigerate_frame31.jpg,Portrait photography,0.524
+newport_cigerate_frame32.jpg,Love,0.765
+newport_cigerate_frame32.jpg,Happiness,0.729
+newport_cigerate_frame32.jpg,Film,0.649
+newport_cigerate_frame33.jpg,Happiness,0.864
+newport_cigerate_frame33.jpg,Love,0.737
+newport_cigerate_frame33.jpg,Vintage clothing,0.666
+newport_cigerate_frame33.jpg,Film,0.612
+newport_cigerate_frame34.jpg,Blond,0.764
+newport_cigerate_frame34.jpg,Vintage clothing,0.737
+newport_cigerate_frame34.jpg,Happiness,0.719
+newport_cigerate_frame34.jpg,Love,0.625
+newport_cigerate_frame34.jpg,One-piece garment,0.592
+newport_cigerate_frame34.jpg,Retro style,0.566
+newport_cigerate_frame34.jpg,Day Dress,0.557
+newport_cigerate_frame34.jpg,Film,0.554
+newport_cigerate_frame35.jpg,Happiness,0.881
+newport_cigerate_frame35.jpg,Blond,0.806
+newport_cigerate_frame35.jpg,Love,0.782
+newport_cigerate_frame35.jpg,Vintage clothing,0.693
+newport_cigerate_frame35.jpg,Film,0.621
+newport_cigerate_frame35.jpg,Retro style,0.519
+newport_cigerate_frame35.jpg,Laughter,0.512
+newport_cigerate_frame36.jpg,Gesture,0.748
+newport_cigerate_frame36.jpg,Happiness,0.719
+newport_cigerate_frame36.jpg,Film,0.547
+newport_cigerate_frame37.jpg,Furniture,0.946
+newport_cigerate_frame37.jpg,Foot,0.711
+newport_cigerate_frame37.jpg,Film,0.695
+newport_cigerate_frame37.jpg,Living room,0.655
+newport_cigerate_frame37.jpg,Barefoot,0.601
+newport_cigerate_frame37.jpg,Lamp,0.557
+newport_cigerate_frame37.jpg,Curtain,0.534
+newport_cigerate_frame37.jpg,Houseplant,0.508
+newport_cigerate_frame38.jpg,Furniture,0.99
+newport_cigerate_frame38.jpg,Lighting,0.922
+newport_cigerate_frame38.jpg,Interior design,0.92
+newport_cigerate_frame38.jpg,Living room,0.895
+newport_cigerate_frame38.jpg,Sitting,0.867
+newport_cigerate_frame38.jpg,Room,0.863
+newport_cigerate_frame38.jpg,Lampshade,0.84
+newport_cigerate_frame38.jpg,Lamp,0.823
+newport_cigerate_frame38.jpg,Picture frame,0.807
+newport_cigerate_frame38.jpg,Comfort,0.804
+newport_cigerate_frame39.jpg,Furniture,0.986
+newport_cigerate_frame39.jpg,Living room,0.876
+newport_cigerate_frame39.jpg,Sitting,0.861
+newport_cigerate_frame39.jpg,Room,0.837
+newport_cigerate_frame39.jpg,Comfort,0.794
+newport_cigerate_frame39.jpg,Chair,0.784
+newport_cigerate_frame39.jpg,Lamp,0.77
+newport_cigerate_frame39.jpg,Lampshade,0.74
+newport_cigerate_frame39.jpg,Picture frame,0.73
+newport_cigerate_frame39.jpg,Lap,0.597
+newport_cigerate_frame4.jpg,Electronic device,0.986
+newport_cigerate_frame4.jpg,Display device,0.959
+newport_cigerate_frame4.jpg,Television set,0.95
+newport_cigerate_frame4.jpg,Analog television,0.886
+newport_cigerate_frame4.jpg,Television,0.883
+newport_cigerate_frame4.jpg,Technology,0.869
+newport_cigerate_frame4.jpg,Electronics,0.864
+newport_cigerate_frame4.jpg,Home appliance,0.78
+newport_cigerate_frame4.jpg,Cable television,0.74
+newport_cigerate_frame4.jpg,Flat-panel display,0.632
+newport_cigerate_frame40.jpg,Advertising,0.79
+newport_cigerate_frame40.jpg,Publication,0.625
+newport_cigerate_frame40.jpg,Packaging and labeling,0.507
+newport_cigerate_frame41.jpg,Advertising,0.883
+newport_cigerate_frame41.jpg,Publication,0.614
+newport_cigerate_frame42.jpg,Advertising,0.854
+newport_cigerate_frame42.jpg,Poster,0.669
+newport_cigerate_frame42.jpg,Publication,0.647
+newport_cigerate_frame43.jpg,Advertising,0.865
+newport_cigerate_frame43.jpg,Publication,0.572
+newport_cigerate_frame44.jpg,Advertising,0.888
+newport_cigerate_frame44.jpg,Poster,0.689
+newport_cigerate_frame44.jpg,Publication,0.598
+newport_cigerate_frame45.jpg,Eye,0.951
+newport_cigerate_frame45.jpg,Vintage clothing,0.763
+newport_cigerate_frame45.jpg,Retro style,0.748
+newport_cigerate_frame45.jpg,Portrait,0.653
+newport_cigerate_frame45.jpg,Plaid,0.618
+newport_cigerate_frame45.jpg,Film,0.577
+newport_cigerate_frame45.jpg,Portrait photography,0.547
+newport_cigerate_frame45.jpg,Day Dress,0.529
+newport_cigerate_frame46.jpg,Nose,0.975
+newport_cigerate_frame46.jpg,Mouth,0.956
+newport_cigerate_frame46.jpg,Eye,0.955
+newport_cigerate_frame46.jpg,Smile,0.945
+newport_cigerate_frame46.jpg,Facial expression,0.945
+newport_cigerate_frame46.jpg,Happiness,0.89
+newport_cigerate_frame46.jpg,Portrait,0.753
+newport_cigerate_frame46.jpg,Gesture,0.747
+newport_cigerate_frame46.jpg,Pleased,0.729
+newport_cigerate_frame46.jpg,Vintage clothing,0.702
+newport_cigerate_frame48.jpg,Film,0.678
+newport_cigerate_frame49.jpg,Curtain,0.581
+newport_cigerate_frame49.jpg,Film,0.559
+newport_cigerate_frame49.jpg,Lamp,0.551
+newport_cigerate_frame49.jpg,Living room,0.534
+newport_cigerate_frame49.jpg,Picture frame,0.528
+newport_cigerate_frame5.jpg,Electronic device,0.983
+newport_cigerate_frame5.jpg,Display device,0.955
+newport_cigerate_frame5.jpg,Television set,0.936
+newport_cigerate_frame5.jpg,Analog television,0.876
+newport_cigerate_frame5.jpg,Technology,0.859
+newport_cigerate_frame5.jpg,Electronics,0.835
+newport_cigerate_frame5.jpg,Television,0.834
+newport_cigerate_frame5.jpg,Black and white,0.79
+newport_cigerate_frame5.jpg,Home appliance,0.728
+newport_cigerate_frame5.jpg,Cable television,0.717
+newport_cigerate_frame50.jpg,Living room,0.598
+newport_cigerate_frame50.jpg,Curtain,0.53
+newport_cigerate_frame50.jpg,Lamp,0.523
+newport_cigerate_frame51.jpg,Sitting,0.855
+newport_cigerate_frame51.jpg,Living room,0.727
+newport_cigerate_frame51.jpg,Curtain,0.654
+newport_cigerate_frame51.jpg,Lamp,0.568
+newport_cigerate_frame52.jpg,Sitting,0.876
+newport_cigerate_frame52.jpg,Living room,0.725
+newport_cigerate_frame52.jpg,Curtain,0.613
+newport_cigerate_frame52.jpg,Lamp,0.542
+newport_cigerate_frame53.jpg,Advertising,0.882
+newport_cigerate_frame53.jpg,Poster,0.668
+newport_cigerate_frame53.jpg,Publication,0.609
+newport_cigerate_frame54.jpg,Advertising,0.867
+newport_cigerate_frame54.jpg,Poster,0.658
+newport_cigerate_frame54.jpg,Publication,0.621
+newport_cigerate_frame55.jpg,Facial expression,0.945
+newport_cigerate_frame55.jpg,Happiness,0.683
+newport_cigerate_frame55.jpg,Makeover,0.66
+newport_cigerate_frame55.jpg,Pleased,0.582
+newport_cigerate_frame55.jpg,Feathered hair,0.536
+newport_cigerate_frame56.jpg,Head,0.986
+newport_cigerate_frame56.jpg,Nose,0.978
+newport_cigerate_frame56.jpg,Hairstyle,0.97
+newport_cigerate_frame56.jpg,Mouth,0.957
+newport_cigerate_frame56.jpg,Facial expression,0.945
+newport_cigerate_frame56.jpg,Eyelash,0.868
+newport_cigerate_frame56.jpg,Happiness,0.7
+newport_cigerate_frame56.jpg,Makeover,0.639
+newport_cigerate_frame56.jpg,Feathered hair,0.631
+newport_cigerate_frame56.jpg,Pleased,0.622
+newport_cigerate_frame57.jpg,Facial expression,0.945
+newport_cigerate_frame58.jpg,Collar,0.923
+newport_cigerate_frame58.jpg,Portrait photography,0.689
+newport_cigerate_frame58.jpg,Portrait,0.638
+newport_cigerate_frame58.jpg,Wrinkle,0.637
+newport_cigerate_frame58.jpg,Worry,0.527
+newport_cigerate_frame58.jpg,Film,0.518
+newport_cigerate_frame59.jpg,Facial expression,0.945
+newport_cigerate_frame59.jpg,Happiness,0.642
+newport_cigerate_frame59.jpg,Film,0.548
+newport_cigerate_frame6.jpg,Electronic device,0.986
+newport_cigerate_frame6.jpg,Display device,0.96
+newport_cigerate_frame6.jpg,Television set,0.949
+newport_cigerate_frame6.jpg,Analog television,0.885
+newport_cigerate_frame6.jpg,Television,0.871
+newport_cigerate_frame6.jpg,Technology,0.871
+newport_cigerate_frame6.jpg,Electronics,0.866
+newport_cigerate_frame6.jpg,Home appliance,0.765
+newport_cigerate_frame6.jpg,Cable television,0.725
+newport_cigerate_frame6.jpg,Multimedia,0.64
+newport_cigerate_frame60.jpg,Facial expression,0.944
+newport_cigerate_frame60.jpg,Gesture,0.76
+newport_cigerate_frame60.jpg,Happiness,0.574
+newport_cigerate_frame61.jpg,Night,0.714
+newport_cigerate_frame7.jpg,Living room,0.526
+newport_cigerate_frame7.jpg,Curtain,0.52
+newport_cigerate_frame8.jpg,Living room,0.55
+newport_cigerate_frame9.jpg,Living room,0.598
+newport_cigerate_frame9.jpg,Curtain,0.528
+pepsi_ad_frame0.jpg,Eyebrow,0.986
+pepsi_ad_frame0.jpg,Lips,0.985
+pepsi_ad_frame0.jpg,Forehead,0.983
+pepsi_ad_frame0.jpg,Skin,0.98
+pepsi_ad_frame0.jpg,Eyelash,0.98
+pepsi_ad_frame0.jpg,Beauty,0.971
+pepsi_ad_frame0.jpg,Facial expression,0.945
+pepsi_ad_frame0.jpg,Portrait photography,0.902
+pepsi_ad_frame0.jpg,Eye shadow,0.899
+pepsi_ad_frame0.jpg,Lipstick,0.894
+pepsi_ad_frame1.jpg,Logo,0.827
+pepsi_ad_frame1.jpg,Soft drink,0.712
+pepsi_ad_frame1.jpg,Drink can,0.687
+pepsi_ad_frame1.jpg,Steel and tin cans,0.673
+pepsi_ad_frame1.jpg,Bottle,0.632
+pepsi_ad_frame1.jpg,Label,0.609
+pepsi_ad_frame1.jpg,Cylinder,0.602
+pepsi_ad_frame1.jpg,Aluminum can,0.506
+pepsi_ad_frame10.jpg,Formal wear,0.962
+pepsi_ad_frame10.jpg,Dress,0.887
+pepsi_ad_frame10.jpg,Necktie,0.803
+pepsi_ad_frame10.jpg,Gesture,0.769
+pepsi_ad_frame10.jpg,Entertainment,0.754
+pepsi_ad_frame10.jpg,One-piece garment,0.552
+pepsi_ad_frame10.jpg,Day Dress,0.543
+pepsi_ad_frame11.jpg,Formal wear,0.968
+pepsi_ad_frame11.jpg,Dress,0.928
+pepsi_ad_frame11.jpg,Necktie,0.802
+pepsi_ad_frame11.jpg,One-piece garment,0.796
+pepsi_ad_frame11.jpg,Fashion design,0.789
+pepsi_ad_frame11.jpg,Day Dress,0.71
+pepsi_ad_frame11.jpg,Cocktail dress,0.534
+pepsi_ad_frame11.jpg,Sheath dress,0.512
+pepsi_ad_frame12.jpg,Happiness,0.949
+pepsi_ad_frame12.jpg,Facial expression,0.945
+pepsi_ad_frame12.jpg,Smile,0.943
+pepsi_ad_frame12.jpg,Fun,0.755
+pepsi_ad_frame12.jpg,Advertising,0.696
+pepsi_ad_frame12.jpg,Nail,0.608
+pepsi_ad_frame12.jpg,Lipstick,0.578
+pepsi_ad_frame12.jpg,Carbonated soft drinks,0.567
+pepsi_ad_frame12.jpg,Laughter,0.541
+pepsi_ad_frame12.jpg,Cosmetics,0.525
+pepsi_ad_frame13.jpg,Formal wear,0.977
+pepsi_ad_frame13.jpg,Suit,0.951
+pepsi_ad_frame13.jpg,Facial expression,0.945
+pepsi_ad_frame13.jpg,Collar,0.942
+pepsi_ad_frame13.jpg,Blazer,0.933
+pepsi_ad_frame13.jpg,Coat,0.91
+pepsi_ad_frame13.jpg,Necktie,0.907
+pepsi_ad_frame13.jpg,White-collar worker,0.906
+pepsi_ad_frame13.jpg,Dress shirt,0.817
+pepsi_ad_frame13.jpg,Gesture,0.788
+pepsi_ad_frame14.jpg,Liquid,0.916
+pepsi_ad_frame15.jpg,Rust,0.585
+pepsi_ad_frame16.jpg,Lips,0.985
+pepsi_ad_frame16.jpg,Liquid,0.921
+pepsi_ad_frame16.jpg,Carbonated soft drinks,0.865
+pepsi_ad_frame16.jpg,Cola,0.839
+pepsi_ad_frame16.jpg,Soft drink,0.757
+pepsi_ad_frame16.jpg,Food,0.722
+pepsi_ad_frame16.jpg,Lipstick,0.638
+pepsi_ad_frame16.jpg,Taste,0.624
+pepsi_ad_frame16.jpg,Drinking straw,0.608
+pepsi_ad_frame16.jpg,Drinking,0.606
+pepsi_ad_frame17.jpg,Dress,0.965
+pepsi_ad_frame17.jpg,Formal wear,0.948
+pepsi_ad_frame17.jpg,One-piece garment,0.85
+pepsi_ad_frame17.jpg,Day Dress,0.809
+pepsi_ad_frame17.jpg,Fashion design,0.758
+pepsi_ad_frame17.jpg,Cocktail dress,0.708
+pepsi_ad_frame17.jpg,Sheath dress,0.645
+pepsi_ad_frame17.jpg,Fashion Model,0.561
+pepsi_ad_frame18.jpg,Dress,0.955
+pepsi_ad_frame18.jpg,Formal wear,0.925
+pepsi_ad_frame18.jpg,One-piece garment,0.828
+pepsi_ad_frame18.jpg,Day Dress,0.811
+pepsi_ad_frame18.jpg,Fashion design,0.753
+pepsi_ad_frame18.jpg,Cocktail dress,0.651
+pepsi_ad_frame18.jpg,Sheath dress,0.608
+pepsi_ad_frame18.jpg,Fashion Model,0.515
+pepsi_ad_frame18.jpg,Performing Arts,0.513
+pepsi_ad_frame19.jpg,Red,0.976
+pepsi_ad_frame19.jpg,Drink can,0.827
+pepsi_ad_frame19.jpg,Logo,0.823
+pepsi_ad_frame19.jpg,Steel and tin cans,0.754
+pepsi_ad_frame19.jpg,Soft drink,0.722
+pepsi_ad_frame19.jpg,Aluminum can,0.644
+pepsi_ad_frame19.jpg,Carbonated soft drinks,0.611
+pepsi_ad_frame19.jpg,Non-alcoholic drink,0.548
+pepsi_ad_frame2.jpg,Formal wear,0.98
+pepsi_ad_frame2.jpg,Suit,0.903
+pepsi_ad_frame2.jpg,Dress,0.885
+pepsi_ad_frame2.jpg,Blazer,0.881
+pepsi_ad_frame2.jpg,Necktie,0.88
+pepsi_ad_frame2.jpg,White-collar worker,0.871
+pepsi_ad_frame2.jpg,Gesture,0.799
+pepsi_ad_frame2.jpg,Fashion design,0.743
+pepsi_ad_frame2.jpg,One-piece garment,0.702
+pepsi_ad_frame2.jpg,Cocktail dress,0.682
+pepsi_ad_frame20.jpg,Meat,0.74
+pepsi_ad_frame20.jpg,Food,0.51
+pepsi_ad_frame21.jpg,Entertainment,0.961
+pepsi_ad_frame21.jpg,Event,0.952
+pepsi_ad_frame21.jpg,Performing Arts,0.923
+pepsi_ad_frame21.jpg,Thigh,0.911
+pepsi_ad_frame21.jpg,Choreography,0.842
+pepsi_ad_frame21.jpg,Dance,0.812
+pepsi_ad_frame21.jpg,Fun,0.777
+pepsi_ad_frame21.jpg,Performance,0.72
+pepsi_ad_frame21.jpg,Hip,0.675
+pepsi_ad_frame21.jpg,Concert dance,0.609
+pepsi_ad_frame22.jpg,Lips,0.985
+pepsi_ad_frame22.jpg,Carbonated soft drinks,0.822
+pepsi_ad_frame22.jpg,Drinking,0.771
+pepsi_ad_frame22.jpg,Soft drink,0.742
+pepsi_ad_frame22.jpg,Lipstick,0.713
+pepsi_ad_frame22.jpg,Nail,0.68
+pepsi_ad_frame22.jpg,Cola,0.62
+pepsi_ad_frame22.jpg,Cosmetics,0.591
+pepsi_ad_frame22.jpg,Sunglasses,0.54
+pepsi_ad_frame22.jpg,Food,0.509
+pepsi_ad_frame24.jpg,Facial expression,0.944
+pepsi_ad_frame24.jpg,Smile,0.929
+pepsi_ad_frame24.jpg,Happiness,0.73
+pepsi_ad_frame24.jpg,Swimsuit,0.603
+pepsi_ad_frame24.jpg,Maillot,0.569
+pepsi_ad_frame24.jpg,One-piece swimsuit,0.535
+pepsi_ad_frame25.jpg,Smile,0.891
+pepsi_ad_frame25.jpg,Entertainment,0.824
+pepsi_ad_frame25.jpg,Fashion Model,0.657
+pepsi_ad_frame25.jpg,Performing Arts,0.65
+pepsi_ad_frame25.jpg,Maillot,0.636
+pepsi_ad_frame25.jpg,Swimsuit,0.628
+pepsi_ad_frame25.jpg,One-piece swimsuit,0.571
+pepsi_ad_frame25.jpg,Performance,0.542
+pepsi_ad_frame26.jpg,Liquid,0.916
+pepsi_ad_frame26.jpg,Carbonated soft drinks,0.84
+pepsi_ad_frame26.jpg,Soft drink,0.831
+pepsi_ad_frame26.jpg,Logo,0.793
+pepsi_ad_frame26.jpg,Drink can,0.761
+pepsi_ad_frame26.jpg,Steel and tin cans,0.731
+pepsi_ad_frame26.jpg,Aluminum can,0.71
+pepsi_ad_frame26.jpg,Bottle,0.582
+pepsi_ad_frame26.jpg,Non-alcoholic drink,0.556
+pepsi_ad_frame26.jpg,Food,0.536
+pepsi_ad_frame27.jpg,Facial expression,0.945
+pepsi_ad_frame27.jpg,Maillot,0.853
+pepsi_ad_frame27.jpg,One-piece swimsuit,0.817
+pepsi_ad_frame27.jpg,Fashion Model,0.811
+pepsi_ad_frame27.jpg,Swimsuit,0.794
+pepsi_ad_frame27.jpg,Model,0.739
+pepsi_ad_frame27.jpg,Monokini,0.737
+pepsi_ad_frame27.jpg,Photo shoot,0.693
+pepsi_ad_frame27.jpg,Leotard,0.577
+pepsi_ad_frame28.jpg,Swimsuit,0.881
+pepsi_ad_frame28.jpg,One-piece swimsuit,0.875
+pepsi_ad_frame28.jpg,Maillot,0.87
+pepsi_ad_frame28.jpg,Monokini,0.803
+pepsi_ad_frame28.jpg,Leotard,0.776
+pepsi_ad_frame28.jpg,Happiness,0.681
+pepsi_ad_frame28.jpg,Fashion Model,0.61
+pepsi_ad_frame28.jpg,Model,0.532
+pepsi_ad_frame29.jpg,Happiness,0.869
+pepsi_ad_frame29.jpg,Performing Arts,0.849
+pepsi_ad_frame29.jpg,Maillot,0.837
+pepsi_ad_frame29.jpg,Entertainment,0.834
+pepsi_ad_frame29.jpg,Choreography,0.805
+pepsi_ad_frame29.jpg,Swimsuit,0.745
+pepsi_ad_frame29.jpg,One-piece swimsuit,0.655
+pepsi_ad_frame29.jpg,Leotard,0.597
+pepsi_ad_frame29.jpg,Dance,0.595
+pepsi_ad_frame29.jpg,Modern dance,0.563
+pepsi_ad_frame3.jpg,Formal wear,0.973
+pepsi_ad_frame3.jpg,Facial expression,0.944
+pepsi_ad_frame3.jpg,Suit,0.923
+pepsi_ad_frame3.jpg,Necktie,0.916
+pepsi_ad_frame3.jpg,White-collar worker,0.897
+pepsi_ad_frame3.jpg,Blazer,0.896
+pepsi_ad_frame3.jpg,Coat,0.893
+pepsi_ad_frame3.jpg,Gesture,0.78
+pepsi_ad_frame3.jpg,Fun,0.756
+pepsi_ad_frame3.jpg,Tuxedo,0.626
+pepsi_ad_frame30.jpg,Liquid,0.917
+pepsi_ad_frame30.jpg,Logo,0.801
+pepsi_ad_frame30.jpg,Soft drink,0.641
+pepsi_ad_frame30.jpg,Food,0.544
+pepsi_ad_frame31.jpg,Fluid,0.955
+pepsi_ad_frame31.jpg,Liquid,0.919
+pepsi_ad_frame31.jpg,Night,0.866
+pepsi_ad_frame31.jpg,Midnight,0.736
+pepsi_ad_frame32.jpg,Fun,0.895
+pepsi_ad_frame32.jpg,Recreation,0.872
+pepsi_ad_frame32.jpg,Entertainment,0.79
+pepsi_ad_frame32.jpg,Happiness,0.783
+pepsi_ad_frame32.jpg,Bathing,0.617
+pepsi_ad_frame32.jpg,Swimsuit,0.602
+pepsi_ad_frame32.jpg,Party,0.564
+pepsi_ad_frame33.jpg,Happiness,0.882
+pepsi_ad_frame33.jpg,Fun,0.881
+pepsi_ad_frame33.jpg,Sleeveless shirt,0.565
+pepsi_ad_frame34.jpg,Formal wear,0.956
+pepsi_ad_frame34.jpg,Suit,0.803
+pepsi_ad_frame34.jpg,Blazer,0.794
+pepsi_ad_frame34.jpg,Gesture,0.78
+pepsi_ad_frame34.jpg,Necktie,0.763
+pepsi_ad_frame34.jpg,Tuxedo,0.712
+pepsi_ad_frame35.jpg,Formal wear,0.972
+pepsi_ad_frame35.jpg,Suit,0.827
+pepsi_ad_frame35.jpg,Necktie,0.77
+pepsi_ad_frame35.jpg,Gesture,0.75
+pepsi_ad_frame35.jpg,Tuxedo,0.674
+pepsi_ad_frame35.jpg,Strapless dress,0.532
+pepsi_ad_frame36.jpg,Eyewear,0.995
+pepsi_ad_frame36.jpg,Vision Care,0.98
+pepsi_ad_frame36.jpg,Goggles,0.936
+pepsi_ad_frame36.jpg,Black hair,0.925
+pepsi_ad_frame36.jpg,Sunglasses,0.922
+pepsi_ad_frame36.jpg,Swimsuit,0.801
+pepsi_ad_frame36.jpg,Maillot,0.781
+pepsi_ad_frame36.jpg,One-piece swimsuit,0.725
+pepsi_ad_frame36.jpg,Leotard,0.689
+pepsi_ad_frame36.jpg,Monokini,0.661
+pepsi_ad_frame37.jpg,Eyewear,0.992
+pepsi_ad_frame37.jpg,Vision Care,0.967
+pepsi_ad_frame37.jpg,Facial expression,0.945
+pepsi_ad_frame37.jpg,Black hair,0.922
+pepsi_ad_frame37.jpg,Goggles,0.907
+pepsi_ad_frame37.jpg,Sunglasses,0.89
+pepsi_ad_frame37.jpg,Swimsuit,0.831
+pepsi_ad_frame37.jpg,Model,0.634
+pepsi_ad_frame37.jpg,Maillot,0.609
+pepsi_ad_frame37.jpg,Photo shoot,0.584
+pepsi_ad_frame38.jpg,Carbonated soft drinks,0.725
+pepsi_ad_frame38.jpg,Soft drink,0.699
+pepsi_ad_frame39.jpg,Formal wear,0.972
+pepsi_ad_frame39.jpg,Suit,0.868
+pepsi_ad_frame39.jpg,Blazer,0.839
+pepsi_ad_frame39.jpg,White-collar worker,0.803
+pepsi_ad_frame39.jpg,Gesture,0.782
+pepsi_ad_frame39.jpg,Necktie,0.772
+pepsi_ad_frame39.jpg,Tuxedo,0.721
+pepsi_ad_frame4.jpg,Formal wear,0.968
+pepsi_ad_frame4.jpg,Collar,0.933
+pepsi_ad_frame4.jpg,Blazer,0.879
+pepsi_ad_frame4.jpg,Necktie,0.878
+pepsi_ad_frame4.jpg,Suit,0.873
+pepsi_ad_frame4.jpg,White-collar worker,0.87
+pepsi_ad_frame4.jpg,Coat,0.861
+pepsi_ad_frame4.jpg,Gesture,0.786
+pepsi_ad_frame4.jpg,Fashion design,0.753
+pepsi_ad_frame4.jpg,Bow tie,0.585
+pepsi_ad_frame40.jpg,Thigh,0.926
+pepsi_ad_frame40.jpg,Swimsuit,0.855
+pepsi_ad_frame40.jpg,Maillot,0.757
+pepsi_ad_frame40.jpg,One-piece swimsuit,0.739
+pepsi_ad_frame40.jpg,Foot,0.576
+pepsi_ad_frame40.jpg,Hip,0.566
+pepsi_ad_frame40.jpg,Model,0.563
+pepsi_ad_frame41.jpg,Red,0.977
+pepsi_ad_frame41.jpg,Liquid,0.916
+pepsi_ad_frame41.jpg,Ice,0.899
+pepsi_ad_frame41.jpg,Freezing,0.775
+pepsi_ad_frame41.jpg,Snow,0.73
+pepsi_ad_frame41.jpg,Winter,0.684
+pepsi_ad_frame41.jpg,Soft drink,0.637
+pepsi_ad_frame41.jpg,Solvent in chemical reactions,0.536
+pepsi_ad_frame41.jpg,Ice cube,0.513
+pepsi_ad_frame41.jpg,Non-alcoholic drink,0.507
+pepsi_ad_frame42.jpg,Liquid,0.918
+pepsi_ad_frame42.jpg,Soft drink,0.781
+pepsi_ad_frame42.jpg,Logo,0.738
+pepsi_ad_frame42.jpg,Carbonated soft drinks,0.732
+pepsi_ad_frame42.jpg,Smoke,0.679
+pepsi_ad_frame42.jpg,Non-alcoholic drink,0.59
+pepsi_ad_frame42.jpg,Pollution,0.517
+pepsi_ad_frame43.jpg,Red,0.977
+pepsi_ad_frame44.jpg,Logo,0.875
+pepsi_ad_frame44.jpg,Soft drink,0.742
+pepsi_ad_frame44.jpg,Label,0.539
+pepsi_ad_frame45.jpg,Fashion,0.953
+pepsi_ad_frame45.jpg,Dress,0.938
+pepsi_ad_frame45.jpg,Strapless dress,0.929
+pepsi_ad_frame45.jpg,One-piece garment,0.919
+pepsi_ad_frame45.jpg,Formal wear,0.878
+pepsi_ad_frame45.jpg,Waist,0.861
+pepsi_ad_frame45.jpg,Cocktail dress,0.852
+pepsi_ad_frame45.jpg,Day Dress,0.85
+pepsi_ad_frame45.jpg,Fashion design,0.806
+pepsi_ad_frame45.jpg,Sheath dress,0.73
+pepsi_ad_frame46.jpg,Entertainment,0.848
+pepsi_ad_frame46.jpg,Performing Arts,0.838
+pepsi_ad_frame46.jpg,Fashion design,0.786
+pepsi_ad_frame46.jpg,Choreography,0.729
+pepsi_ad_frame46.jpg,One-piece garment,0.712
+pepsi_ad_frame46.jpg,Performance,0.661
+pepsi_ad_frame46.jpg,Dance,0.631
+pepsi_ad_frame46.jpg,Animation,0.603
+pepsi_ad_frame46.jpg,Costume design,0.584
+pepsi_ad_frame46.jpg,Musical theatre,0.516
+pepsi_ad_frame47.jpg,Musical instrument,0.985
+pepsi_ad_frame47.jpg,Chordophone,0.985
+pepsi_ad_frame47.jpg,String instrument,0.98
+pepsi_ad_frame47.jpg,Guitar,0.971
+pepsi_ad_frame47.jpg,Plucked string instrument,0.97
+pepsi_ad_frame47.jpg,Guitarist,0.94
+pepsi_ad_frame47.jpg,Musician,0.94
+pepsi_ad_frame47.jpg,Electric guitar,0.939
+pepsi_ad_frame47.jpg,Bassist,0.88
+pepsi_ad_frame47.jpg,Entertainment,0.88
+pepsi_ad_frame48.jpg,Fluid,0.956
+pepsi_ad_frame48.jpg,Liquid,0.922
+pepsi_ad_frame48.jpg,Carbonated soft drinks,0.695
+pepsi_ad_frame48.jpg,Soft drink,0.615
+pepsi_ad_frame48.jpg,Cocktail,0.593
+pepsi_ad_frame48.jpg,Highball glass,0.553
+pepsi_ad_frame48.jpg,Bubble,0.527
+pepsi_ad_frame48.jpg,Science,0.511
+pepsi_ad_frame49.jpg,Heat,0.698
+pepsi_ad_frame49.jpg,Meat,0.655
+pepsi_ad_frame49.jpg,Food,0.542
+pepsi_ad_frame5.jpg,Liquid,0.92
+pepsi_ad_frame5.jpg,Carbonated soft drinks,0.864
+pepsi_ad_frame5.jpg,Soft drink,0.863
+pepsi_ad_frame5.jpg,Food,0.786
+pepsi_ad_frame5.jpg,Logo,0.781
+pepsi_ad_frame5.jpg,Junk food,0.702
+pepsi_ad_frame5.jpg,Non-alcoholic drink,0.688
+pepsi_ad_frame5.jpg,Bottle,0.676
+pepsi_ad_frame5.jpg,Diet drink,0.585
+pepsi_ad_frame5.jpg,Plastic bottle,0.577
+pepsi_ad_frame50.jpg,Eyebrow,0.986
+pepsi_ad_frame50.jpg,Lips,0.985
+pepsi_ad_frame50.jpg,Eyelash,0.954
+pepsi_ad_frame50.jpg,Facial expression,0.944
+pepsi_ad_frame50.jpg,Lipstick,0.918
+pepsi_ad_frame50.jpg,Eye shadow,0.823
+pepsi_ad_frame50.jpg,Cosmetics,0.822
+pepsi_ad_frame50.jpg,Eye liner,0.781
+pepsi_ad_frame50.jpg,Smoking,0.69
+pepsi_ad_frame50.jpg,Makeover,0.657
+pepsi_ad_frame51.jpg,Formal wear,0.957
+pepsi_ad_frame51.jpg,Dress,0.93
+pepsi_ad_frame51.jpg,One-piece garment,0.731
+pepsi_ad_frame51.jpg,Day Dress,0.665
+pepsi_ad_frame51.jpg,Strapless dress,0.595
+pepsi_ad_frame51.jpg,Tuxedo,0.588
+pepsi_ad_frame51.jpg,Fashion Model,0.542
+pepsi_ad_frame51.jpg,Cocktail dress,0.512
+pepsi_ad_frame51.jpg,Film,0.506
+pepsi_ad_frame52.jpg,Formal wear,0.945
+pepsi_ad_frame52.jpg,Dress,0.939
+pepsi_ad_frame52.jpg,One-piece garment,0.798
+pepsi_ad_frame52.jpg,Fashion design,0.742
+pepsi_ad_frame52.jpg,Day Dress,0.728
+pepsi_ad_frame52.jpg,Strapless dress,0.67
+pepsi_ad_frame52.jpg,Cocktail dress,0.624
+pepsi_ad_frame52.jpg,Fashion Model,0.6
+pepsi_ad_frame53.jpg,Strapless dress,0.961
+pepsi_ad_frame53.jpg,Fashion,0.946
+pepsi_ad_frame53.jpg,Facial expression,0.945
+pepsi_ad_frame53.jpg,Black hair,0.941
+pepsi_ad_frame53.jpg,Dress,0.907
+pepsi_ad_frame53.jpg,Day Dress,0.873
+pepsi_ad_frame53.jpg,One-piece garment,0.843
+pepsi_ad_frame53.jpg,Cocktail dress,0.826
+pepsi_ad_frame53.jpg,Fashion Model,0.807
+pepsi_ad_frame53.jpg,Little black dress,0.772
+pepsi_ad_frame54.jpg,Strapless dress,0.966
+pepsi_ad_frame54.jpg,Fashion,0.951
+pepsi_ad_frame54.jpg,Dress,0.935
+pepsi_ad_frame54.jpg,Day Dress,0.906
+pepsi_ad_frame54.jpg,Cocktail dress,0.89
+pepsi_ad_frame54.jpg,One-piece garment,0.885
+pepsi_ad_frame54.jpg,Little black dress,0.853
+pepsi_ad_frame54.jpg,Fashion Model,0.821
+pepsi_ad_frame54.jpg,Fashion design,0.789
+pepsi_ad_frame54.jpg,Haute couture,0.722
+pepsi_ad_frame55.jpg,Fashion design,0.746
+pepsi_ad_frame55.jpg,Fashion Model,0.737
+pepsi_ad_frame55.jpg,Little black dress,0.634
+pepsi_ad_frame55.jpg,Model,0.618
+pepsi_ad_frame55.jpg,Day Dress,0.582
+pepsi_ad_frame55.jpg,Strapless dress,0.55
+pepsi_ad_frame55.jpg,Makeover,0.534
+pepsi_ad_frame56.jpg,Liquid,0.919
+pepsi_ad_frame56.jpg,Carbonated soft drinks,0.895
+pepsi_ad_frame56.jpg,Soft drink,0.891
+pepsi_ad_frame56.jpg,Logo,0.863
+pepsi_ad_frame56.jpg,Food,0.759
+pepsi_ad_frame56.jpg,Drink can,0.726
+pepsi_ad_frame56.jpg,Aluminum can,0.696
+pepsi_ad_frame56.jpg,Steel and tin cans,0.694
+pepsi_ad_frame56.jpg,Non-alcoholic drink,0.664
+pepsi_ad_frame56.jpg,Junk food,0.658
+pepsi_ad_frame57.jpg,Formal wear,0.979
+pepsi_ad_frame57.jpg,Fashion,0.95
+pepsi_ad_frame57.jpg,Facial expression,0.944
+pepsi_ad_frame57.jpg,Event,0.933
+pepsi_ad_frame57.jpg,Dress,0.907
+pepsi_ad_frame57.jpg,Necktie,0.826
+pepsi_ad_frame57.jpg,Fashion design,0.813
+pepsi_ad_frame57.jpg,Suit,0.806
+pepsi_ad_frame57.jpg,Party,0.782
+pepsi_ad_frame57.jpg,Bow tie,0.749
+pepsi_ad_frame58.jpg,Formal wear,0.962
+pepsi_ad_frame58.jpg,Facial expression,0.944
+pepsi_ad_frame58.jpg,Bow tie,0.833
+pepsi_ad_frame58.jpg,Necktie,0.76
+pepsi_ad_frame58.jpg,Lipstick,0.619
+pepsi_ad_frame58.jpg,Strapless dress,0.582
+pepsi_ad_frame58.jpg,Tuxedo,0.558
+pepsi_ad_frame58.jpg,Film,0.552
+pepsi_ad_frame59.jpg,Formal wear,0.969
+pepsi_ad_frame59.jpg,Bow tie,0.882
+pepsi_ad_frame59.jpg,Necktie,0.808
+pepsi_ad_frame59.jpg,Entertainment,0.805
+pepsi_ad_frame59.jpg,Fashion design,0.77
+pepsi_ad_frame59.jpg,Tuxedo,0.752
+pepsi_ad_frame59.jpg,Party,0.696
+pepsi_ad_frame59.jpg,Strapless dress,0.603
+pepsi_ad_frame59.jpg,Performing Arts,0.557
+pepsi_ad_frame59.jpg,Film,0.509
+pepsi_ad_frame6.jpg,Choreography,0.882
+pepsi_ad_frame6.jpg,Entertainment,0.843
+pepsi_ad_frame6.jpg,Performing Arts,0.84
+pepsi_ad_frame6.jpg,Waist,0.836
+pepsi_ad_frame6.jpg,Dance,0.797
+pepsi_ad_frame6.jpg,One-piece garment,0.723
+pepsi_ad_frame6.jpg,Little black dress,0.651
+pepsi_ad_frame6.jpg,Day Dress,0.639
+pepsi_ad_frame6.jpg,Fashion Model,0.625
+pepsi_ad_frame6.jpg,Modern dance,0.571
+pepsi_ad_frame60.jpg,Chin,0.989
+pepsi_ad_frame60.jpg,Eyebrow,0.986
+pepsi_ad_frame60.jpg,Lips,0.985
+pepsi_ad_frame60.jpg,Eyelash,0.968
+pepsi_ad_frame60.jpg,Beauty,0.961
+pepsi_ad_frame60.jpg,Fashion,0.946
+pepsi_ad_frame60.jpg,Facial expression,0.945
+pepsi_ad_frame60.jpg,Black,0.907
+pepsi_ad_frame60.jpg,Lipstick,0.907
+pepsi_ad_frame60.jpg,Eye shadow,0.822
+pepsi_ad_frame61.jpg,Chin,0.989
+pepsi_ad_frame61.jpg,Eyebrow,0.986
+pepsi_ad_frame61.jpg,Lips,0.985
+pepsi_ad_frame61.jpg,Eyelash,0.964
+pepsi_ad_frame61.jpg,Beauty,0.959
+pepsi_ad_frame61.jpg,Facial expression,0.945
+pepsi_ad_frame61.jpg,Lipstick,0.868
+pepsi_ad_frame61.jpg,Fashion Model,0.793
+pepsi_ad_frame61.jpg,Eye shadow,0.791
+pepsi_ad_frame61.jpg,Portrait photography,0.772
+pepsi_ad_frame62.jpg,Eyebrow,0.986
+pepsi_ad_frame62.jpg,Lips,0.985
+pepsi_ad_frame62.jpg,Beauty,0.959
+pepsi_ad_frame62.jpg,Fashion,0.952
+pepsi_ad_frame62.jpg,Eyelash,0.95
+pepsi_ad_frame62.jpg,Facial expression,0.945
+pepsi_ad_frame62.jpg,Headgear,0.944
+pepsi_ad_frame62.jpg,Black,0.907
+pepsi_ad_frame62.jpg,Hat,0.882
+pepsi_ad_frame62.jpg,Lipstick,0.873
+pepsi_ad_frame7.jpg,Performing Arts,0.978
+pepsi_ad_frame7.jpg,Entertainment,0.972
+pepsi_ad_frame7.jpg,Choreography,0.964
+pepsi_ad_frame7.jpg,Event,0.941
+pepsi_ad_frame7.jpg,Dance,0.927
+pepsi_ad_frame7.jpg,Thigh,0.895
+pepsi_ad_frame7.jpg,Performance,0.855
+pepsi_ad_frame7.jpg,Waist,0.836
+pepsi_ad_frame7.jpg,Performance art,0.785
+pepsi_ad_frame7.jpg,Concert dance,0.782
+pepsi_ad_frame8.jpg,Performing Arts,0.949
+pepsi_ad_frame8.jpg,Event,0.941
+pepsi_ad_frame8.jpg,Entertainment,0.94
+pepsi_ad_frame8.jpg,Choreography,0.896
+pepsi_ad_frame8.jpg,Waist,0.832
+pepsi_ad_frame8.jpg,One-piece garment,0.827
+pepsi_ad_frame8.jpg,Dance,0.823
+pepsi_ad_frame8.jpg,Fashion design,0.758
+pepsi_ad_frame8.jpg,Day Dress,0.717
+pepsi_ad_frame8.jpg,Performance,0.67
+pepsi_ad_frame9.jpg,Liquid,0.921
+pepsi_ad_frame9.jpg,Carbonated soft drinks,0.843
+pepsi_ad_frame9.jpg,Soft drink,0.782
+pepsi_ad_frame9.jpg,Food,0.68
+pepsi_ad_frame9.jpg,Non-alcoholic drink,0.563
+pepsi_ad_frame9.jpg,Junk food,0.523
+piccadily_circus_billboard_frame0.jpg,Display device,0.95
+piccadily_circus_billboard_frame0.jpg,Advertising,0.944
+piccadily_circus_billboard_frame0.jpg,Night,0.936
+piccadily_circus_billboard_frame0.jpg,Electricity,0.925
+piccadily_circus_billboard_frame0.jpg,Lighting,0.914
+piccadily_circus_billboard_frame0.jpg,Electronic signage,0.898
+piccadily_circus_billboard_frame0.jpg,Midnight,0.811
+piccadily_circus_billboard_frame0.jpg,Billboard,0.803
+piccadily_circus_billboard_frame0.jpg,Logo,0.773
+piccadily_circus_billboard_frame0.jpg,LED display,0.721
+piccadily_circus_billboard_frame1.jpg,Advertising,0.953
+piccadily_circus_billboard_frame1.jpg,Display device,0.916
+piccadily_circus_billboard_frame1.jpg,Electricity,0.861
+piccadily_circus_billboard_frame1.jpg,Billboard,0.835
+piccadily_circus_billboard_frame1.jpg,Electronic signage,0.811
+piccadily_circus_billboard_frame1.jpg,Night,0.801
+piccadily_circus_billboard_frame1.jpg,Logo,0.771
+piccadily_circus_billboard_frame1.jpg,Banner,0.73
+piccadily_circus_billboard_frame1.jpg,LED display,0.696
+piccadily_circus_billboard_frame1.jpg,Midnight,0.66
+piccadily_circus_billboard_frame2.jpg,Advertising,0.944
+piccadily_circus_billboard_frame2.jpg,Night,0.887
+piccadily_circus_billboard_frame2.jpg,Display device,0.886
+piccadily_circus_billboard_frame2.jpg,Electricity,0.864
+piccadily_circus_billboard_frame2.jpg,Electronic signage,0.813
+piccadily_circus_billboard_frame2.jpg,Logo,0.759
+piccadily_circus_billboard_frame2.jpg,Billboard,0.756
+piccadily_circus_billboard_frame2.jpg,Midnight,0.756
+piccadily_circus_billboard_frame2.jpg,LED display,0.708
+piccadily_circus_billboard_frame2.jpg,Banner,0.676
+piccadily_circus_billboard_frame3.jpg,Advertising,0.954
+piccadily_circus_billboard_frame3.jpg,Display device,0.923
+piccadily_circus_billboard_frame3.jpg,Night,0.894
+piccadily_circus_billboard_frame3.jpg,Billboard,0.866
+piccadily_circus_billboard_frame3.jpg,Electricity,0.862
+piccadily_circus_billboard_frame3.jpg,Electronic signage,0.858
+piccadily_circus_billboard_frame3.jpg,Logo,0.826
+piccadily_circus_billboard_frame3.jpg,Midnight,0.762
+piccadily_circus_billboard_frame3.jpg,LED display,0.7
+piccadily_circus_billboard_frame3.jpg,Banner,0.624
+piccadily_circus_billboard_frame4.jpg,Advertising,0.939
+piccadily_circus_billboard_frame4.jpg,Metropolitan area,0.881
+piccadily_circus_billboard_frame4.jpg,Electronic signage,0.841
+piccadily_circus_billboard_frame4.jpg,Billboard,0.826
+piccadily_circus_billboard_frame4.jpg,Logo,0.814
+piccadily_circus_billboard_frame4.jpg,Commercial building,0.813
+piccadily_circus_billboard_frame4.jpg,Street light,0.731
+piccadily_circus_billboard_frame4.jpg,Banner,0.679
+piccadily_circus_billboard_frame4.jpg,LED display,0.546
+piccadily_circus_billboard_frame4.jpg,Sign,0.516
+piccadily_circus_billboard_frame5.jpg,Display device,0.958
+piccadily_circus_billboard_frame5.jpg,Advertising,0.951
+piccadily_circus_billboard_frame5.jpg,Electricity,0.911
+piccadily_circus_billboard_frame5.jpg,Night,0.908
+piccadily_circus_billboard_frame5.jpg,Electronic signage,0.881
+piccadily_circus_billboard_frame5.jpg,Billboard,0.835
+piccadily_circus_billboard_frame5.jpg,Midnight,0.767
+piccadily_circus_billboard_frame5.jpg,Logo,0.756
+piccadily_circus_billboard_frame5.jpg,LED display,0.723
+piccadily_circus_billboard_frame5.jpg,Flat-panel display,0.659
+piccadily_circus_billboard_frame6.jpg,Advertising,0.952
+piccadily_circus_billboard_frame6.jpg,Night,0.915
+piccadily_circus_billboard_frame6.jpg,Electricity,0.894
+piccadily_circus_billboard_frame6.jpg,Display device,0.873
+piccadily_circus_billboard_frame6.jpg,Billboard,0.843
+piccadily_circus_billboard_frame6.jpg,Electronic signage,0.832
+piccadily_circus_billboard_frame6.jpg,Logo,0.811
+piccadily_circus_billboard_frame6.jpg,Midnight,0.797
+piccadily_circus_billboard_frame6.jpg,Street light,0.675
+piccadily_circus_billboard_frame6.jpg,LED display,0.627
+suddenlink_frame0.jpg,Night,0.853
+suddenlink_frame0.jpg,Film,0.804
+suddenlink_frame0.jpg,Hut,0.738
+suddenlink_frame0.jpg,Digital compositing,0.707
+suddenlink_frame0.jpg,Midnight,0.706
+suddenlink_frame0.jpg,Shed,0.689
+suddenlink_frame0.jpg,Video Game Software,0.637
+suddenlink_frame0.jpg,Animation,0.633
+suddenlink_frame0.jpg,Garden buildings,0.632
+suddenlink_frame0.jpg,Log cabin,0.558
+suddenlink_frame1.jpg,Night,0.85
+suddenlink_frame1.jpg,Film,0.8
+suddenlink_frame1.jpg,Hut,0.756
+suddenlink_frame1.jpg,Digital compositing,0.71
+suddenlink_frame1.jpg,Shed,0.703
+suddenlink_frame1.jpg,Midnight,0.703
+suddenlink_frame1.jpg,Garden buildings,0.639
+suddenlink_frame1.jpg,Video Game Software,0.635
+suddenlink_frame1.jpg,Animation,0.631
+suddenlink_frame1.jpg,Log cabin,0.583
+suddenlink_frame10.jpg,Facial hair,0.879
+suddenlink_frame10.jpg,Film,0.751
+suddenlink_frame10.jpg,Beard,0.75
+suddenlink_frame10.jpg,Moustache,0.612
+suddenlink_frame10.jpg,Television show,0.535
+suddenlink_frame11.jpg,Facial hair,0.908
+suddenlink_frame11.jpg,Beard,0.813
+suddenlink_frame11.jpg,Computer hardware,0.727
+suddenlink_frame11.jpg,Film,0.679
+suddenlink_frame11.jpg,Moustache,0.659
+suddenlink_frame11.jpg,Office Equipment,0.634
+suddenlink_frame11.jpg,Laptop,0.594
+suddenlink_frame11.jpg,Netbook,0.592
+suddenlink_frame11.jpg,Television show,0.502
+suddenlink_frame12.jpg,Facial hair,0.847
+suddenlink_frame12.jpg,Film,0.806
+suddenlink_frame12.jpg,Beard,0.659
+suddenlink_frame12.jpg,Television show,0.586
+suddenlink_frame12.jpg,Moustache,0.581
+suddenlink_frame13.jpg,Drama,0.678
+suddenlink_frame13.jpg,Acting,0.628
+suddenlink_frame13.jpg,Film,0.568
+suddenlink_frame13.jpg,Comfort food,0.508
+suddenlink_frame13.jpg,Cooking,0.5
+suddenlink_frame14.jpg,Film,0.721
+suddenlink_frame14.jpg,Drama,0.662
+suddenlink_frame14.jpg,Acting,0.637
+suddenlink_frame15.jpg,Film,0.713
+suddenlink_frame15.jpg,Drama,0.594
+suddenlink_frame15.jpg,Acting,0.547
+suddenlink_frame16.jpg,Film,0.706
+suddenlink_frame16.jpg,Acting,0.554
+suddenlink_frame16.jpg,Drama,0.548
+suddenlink_frame17.jpg,Film,0.697
+suddenlink_frame17.jpg,Acting,0.521
+suddenlink_frame17.jpg,Drama,0.515
+suddenlink_frame18.jpg,Facial expression,0.945
+suddenlink_frame18.jpg,Happiness,0.875
+suddenlink_frame18.jpg,Film,0.698
+suddenlink_frame19.jpg,Facial expression,0.945
+suddenlink_frame19.jpg,Happiness,0.768
+suddenlink_frame19.jpg,Film,0.615
+suddenlink_frame19.jpg,Acting,0.583
+suddenlink_frame2.jpg,Night,0.855
+suddenlink_frame2.jpg,Film,0.8
+suddenlink_frame2.jpg,Hut,0.77
+suddenlink_frame2.jpg,Shed,0.72
+suddenlink_frame2.jpg,Digital compositing,0.714
+suddenlink_frame2.jpg,Midnight,0.706
+suddenlink_frame2.jpg,Garden buildings,0.648
+suddenlink_frame2.jpg,Video Game Software,0.638
+suddenlink_frame2.jpg,Animation,0.633
+suddenlink_frame2.jpg,Log cabin,0.589
+suddenlink_frame20.jpg,Acting,0.609
+suddenlink_frame21.jpg,Livestock,0.655
+suddenlink_frame21.jpg,Animation,0.645
+suddenlink_frame21.jpg,Domestic pig,0.527
+suddenlink_frame21.jpg,Suidae,0.507
+suddenlink_frame22.jpg,Livestock,0.582
+suddenlink_frame22.jpg,Animation,0.582
+suddenlink_frame22.jpg,Basket,0.505
+suddenlink_frame23.jpg,Animation,0.683
+suddenlink_frame23.jpg,Livestock,0.612
+suddenlink_frame23.jpg,Basket,0.551
+suddenlink_frame24.jpg,Font,0.901
+suddenlink_frame25.jpg,Font,0.9
+suddenlink_frame26.jpg,Text,0.959
+suddenlink_frame26.jpg,Font,0.906
+suddenlink_frame26.jpg,Screenshot,0.792
+suddenlink_frame27.jpg,White,0.968
+suddenlink_frame28.jpg,Font,0.9
+suddenlink_frame28.jpg,Logo,0.735
+suddenlink_frame28.jpg,Design,0.679
+suddenlink_frame28.jpg,Graphics,0.609
+suddenlink_frame28.jpg,Advertising,0.586
+suddenlink_frame29.jpg,Design,0.665
+suddenlink_frame3.jpg,Furniture,0.979
+suddenlink_frame3.jpg,Table,0.943
+suddenlink_frame3.jpg,Chair,0.898
+suddenlink_frame3.jpg,Restaurant,0.88
+suddenlink_frame3.jpg,Kitchen & Dining Room Table,0.851
+suddenlink_frame3.jpg,Conversation,0.82
+suddenlink_frame3.jpg,Light fixture,0.68
+suddenlink_frame3.jpg,Coffee table,0.647
+suddenlink_frame3.jpg,Bar,0.627
+suddenlink_frame3.jpg,Night,0.609
+suddenlink_frame30.jpg,Design,0.666
+suddenlink_frame30.jpg,Advertising,0.547
+suddenlink_frame31.jpg,White,0.967
+suddenlink_frame31.jpg,Night,0.927
+suddenlink_frame31.jpg,Darkness,0.841
+suddenlink_frame31.jpg,Screenshot,0.651
+suddenlink_frame32.jpg,White,0.967
+suddenlink_frame32.jpg,Night,0.927
+suddenlink_frame32.jpg,Darkness,0.84
+suddenlink_frame32.jpg,Screenshot,0.668
+suddenlink_frame4.jpg,Furniture,0.967
+suddenlink_frame4.jpg,Table,0.917
+suddenlink_frame4.jpg,Chair,0.864
+suddenlink_frame4.jpg,Restaurant,0.821
+suddenlink_frame4.jpg,Conversation,0.806
+suddenlink_frame4.jpg,Kitchen & Dining Room Table,0.776
+suddenlink_frame4.jpg,Light fixture,0.658
+suddenlink_frame4.jpg,Lamp,0.619
+suddenlink_frame4.jpg,Coffee table,0.607
+suddenlink_frame4.jpg,Film,0.586
+suddenlink_frame5.jpg,Furniture,0.979
+suddenlink_frame5.jpg,Table,0.941
+suddenlink_frame5.jpg,Chair,0.883
+suddenlink_frame5.jpg,Restaurant,0.844
+suddenlink_frame5.jpg,Conversation,0.823
+suddenlink_frame5.jpg,Kitchen & Dining Room Table,0.814
+suddenlink_frame5.jpg,Coffee table,0.679
+suddenlink_frame5.jpg,Light fixture,0.63
+suddenlink_frame5.jpg,Film,0.617
+suddenlink_frame5.jpg,Lamp,0.616
+suddenlink_frame6.jpg,Furniture,0.984
+suddenlink_frame6.jpg,Table,0.937
+suddenlink_frame6.jpg,Chair,0.919
+suddenlink_frame6.jpg,Restaurant,0.874
+suddenlink_frame6.jpg,Kitchen & Dining Room Table,0.831
+suddenlink_frame6.jpg,Conversation,0.824
+suddenlink_frame6.jpg,Coffee table,0.678
+suddenlink_frame6.jpg,Light fixture,0.638
+suddenlink_frame6.jpg,Bar,0.612
+suddenlink_frame6.jpg,Lamp,0.594
+suddenlink_frame7.jpg,Furniture,0.985
+suddenlink_frame7.jpg,Table,0.94
+suddenlink_frame7.jpg,Chair,0.923
+suddenlink_frame7.jpg,Interior design,0.902
+suddenlink_frame7.jpg,Restaurant,0.876
+suddenlink_frame7.jpg,Kitchen & Dining Room Table,0.84
+suddenlink_frame7.jpg,Conversation,0.821
+suddenlink_frame7.jpg,Coffee table,0.714
+suddenlink_frame7.jpg,Light fixture,0.633
+suddenlink_frame7.jpg,Lamp,0.596
+suddenlink_frame8.jpg,Furniture,0.98
+suddenlink_frame8.jpg,Table,0.932
+suddenlink_frame8.jpg,Chair,0.902
+suddenlink_frame8.jpg,Restaurant,0.879
+suddenlink_frame8.jpg,Kitchen & Dining Room Table,0.836
+suddenlink_frame8.jpg,Conversation,0.825
+suddenlink_frame8.jpg,Light fixture,0.686
+suddenlink_frame8.jpg,Coffee table,0.665
+suddenlink_frame8.jpg,Bar,0.619
+suddenlink_frame8.jpg,Lamp,0.56
+suddenlink_frame9.jpg,Facial hair,0.883
+suddenlink_frame9.jpg,Beard,0.732
+suddenlink_frame9.jpg,Film,0.701
+suddenlink_frame9.jpg,Moustache,0.649
+suddenlink_frame9.jpg,Computer hardware,0.55
+suddenlink_frame9.jpg,Television show,0.521
